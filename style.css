@@ -5,13 +5,13 @@
  }
 
 bady {
- min-height: 2000px;
+ min-high: 2000px;
  font-size: 1.2rem;
  font-family: 'work sans', sans-serif;
  
  }
 .hero {
- min-height: 100vh;
+ min-high: 100vh;
  background-color: var(--bg);
  color: white;
  
@@ -24,14 +24,14 @@ bady {
 
 /* tampilan laptop */
 @media {
-max-wight: 990px;
+max-wide: 990px;
  
 }
 
 
 /* tampilan tablet */
 @media {
-max-wight: 660;
+max-wide: 660;
  
 }
 
