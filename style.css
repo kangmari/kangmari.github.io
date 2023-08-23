@@ -5,7 +5,7 @@
  }
 
 bady {
- min-height: 200px;
+ min-height: 1000px;
  font-size: 1.2rem;
  font-family: 'work sans', sans-serif;
  
@@ -22,3 +22,18 @@ bady {
 
 }
 
+/* tampilan laptop */
+@media {
+max-wight: 990px;
+ 
+}
+
+
+/* tampilan tablet */
+@media {
+max-wight: 660;
+ 
+}
+
+
+/* tampilan hp */
