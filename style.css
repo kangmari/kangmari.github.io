@@ -5,14 +5,14 @@
  }
 
 bady {
- min-height: 1000px;
+ min-height: 2000px;
  font-size: 1.2rem;
  font-family: 'work sans', sans-serif;
  
  }
 .hero {
  min-height: 100vh;
- background-color: black;
+ background-color: var(--bg);
  color: white;
  
 }
