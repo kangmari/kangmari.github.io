@@ -23,6 +23,10 @@ bady {
 
 }
 
+.simplyCountdown {
+ margin: auto;
+}
+
 /* tampilan laptop */
 @media {
 max-wide: 990px;
