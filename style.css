@@ -19,6 +19,8 @@ bady {
  width: 100%;
  height: 100%;
  background-image: url(wedding1.jpg);
+ margin-top: -70px;
+ margin-left: -50px;
  z-index: -1;
 }
 
@@ -33,10 +35,6 @@ bady {
  font-family: 'sacramento', 'cursive';
  font-size: 4rem;
 
-}
-
-.simply-Countdown {
- margin: auto;
 }
 
 /* tampilan laptop */
