@@ -11,7 +11,7 @@ bady {
  font-family: 'work sans', sans-serif;
  
  }
-.hero:: before {
+.hero::before {
   content:'';
  position: absolute;
  top: 0;
