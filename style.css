@@ -32,8 +32,12 @@ bady {
 }
 .hero h1 {
  font-family: 'sacramento', 'cursive';
- font-size: 4rem;
+ font-size: 6rem;
 
+}
+
+.hero p {
+ font-size: 1.4rem;
 }
 
 /* tampilan laptop */
